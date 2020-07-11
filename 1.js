@@ -35,7 +35,7 @@ function sendRequest(opt){
     })
 }
 console.log(h);
-
+console.log('new ');
 
 
 
